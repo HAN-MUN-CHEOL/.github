@@ -1,9 +1,9 @@
-# HanMunChul
+# HanMunCheol
 🤗 Welcome Here!
 #
 
 ## 👥 Team
-### HanMunChul
+### HanMunCheol
 
 - **Kim MinJu**: Software Developer
 - **Park GangHee**: Software Developer
